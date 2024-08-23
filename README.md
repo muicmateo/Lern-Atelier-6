@@ -1,14 +1,14 @@
 # Lern-Atelier-6
 
-# Grob-Planung
+## Grob-Planung
 
 
-# Arbeitspakete
+## Arbeitspakete
+- [ ] GitHub test mit Florian und Robin 
 - [ ] 
 - [ ]
 - [ ]
-- [ ]
 
 
-# 23.8.2024
+## 23.8.2024
 ✍️ 
